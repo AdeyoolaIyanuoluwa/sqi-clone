@@ -1,0 +1,74 @@
+.bg{ 
+    background-image: 
+    linear-gradient(to bottom, rgba(150, 105, 97, 0.67), rgba(2, 0, 76, 0.84)),
+    url('sqi.jpg');
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+}
+.fi{
+    font-size: 72px;
+    text-align: center;
+    line-height: 72px;
+    padding: 120px;
+}
+.pa{
+    top: 120px;
+    left: 250px;
+}
+.ff{
+    font-family: "EB Garamond", sans-serif;
+}
+.div{
+    left: 400px;
+    bottom: 50px;
+}
+.reach{
+    padding: 50px;
+    padding-left: 400px;
+}
+.bg2{ 
+    background-image: 
+    linear-gradient(to right, rgba(150, 105, 97, 0.10), rgba(2, 0, 76, 2.0)),
+    url('sqi3.jpg');
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+.font{
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.rb{
+    font-family: 
+    "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.ma{
+    margin-left: 150px;
+}
+.car{
+    margin: 50px;
+}
+.sqi{
+    margin-left: 200px;
+}
+.op{
+    font-family: "Open Sans, Arial, sans-serif";
+    padding-left: 300px;
+}
+.bg3{
+background-image: linear-gradient(180deg,rgba(150,105,97,0.67) 0%,rgba(0,14,71,0.84) 100%),url(http://edu.sqi.ng/wp-content/uploads/2019/01/shutterstock-290942348.jpg);
+width: 100%;
+    height: 400px;
+    background-size: cover;
+}
+.opp{
+    font-family: "Open Sans, Arial, sans-serif";
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.ready{
+    margin-left: 400px;
+    padding-top: 200px;
+}
+
+
